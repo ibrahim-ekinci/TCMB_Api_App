@@ -1,6 +1,6 @@
 # Döviz Kur Bilgileri Veri Asistanı
 ## Amaç 
-Merkez bankasından alınan döviz kur verilerini merkez bankası APİleri yardımıyla düzenli, güncel olarak kullanıcıya göstermeyi ve kullanıcının istediği tarih aralıklarındaki geçmiş döviz kurları verilerini düzenli biçimde sunulmasını amaçlar.
+Merkez bankasından alınan döviz kur verilerini merkez bankası APIleri yardımıyla düzenli, güncel olarak kullanıcıya göstermeyi ve kullanıcının istediği tarih aralıklarındaki geçmiş döviz kurları verilerini düzenli biçimde sunulmasını amaçlar.
 
 ## Kullanıcı Dökümanı 
 
